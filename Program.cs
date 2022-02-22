@@ -7,8 +7,8 @@ namespace Day_3_lineComparison
         {
             //Console.WriteLine("Welcome to the Program of Comparison of Line");
             //LengthofLineCal.LengthCalculation();
-              CheckEqualityOfTwoLine.TwoLineEquality();
-            //LineGretOrLessOrEqual.CheckLineEqualLessGreater();
+            //CheckEqualityOfTwoLine.TwoLineEquality();
+              LineGretOrLessOrEqual.CheckLineEqualLessGreater();
         }
     }
 }
