@@ -5,8 +5,8 @@ namespace Day_3_lineComparison
     {
         public static void Main(string[]args)
         {
-            Console.WriteLine("Welcome to the Program of Comparison of Line");
-            //LengthofLineCal.LengthCalculation();
+            //Console.WriteLine("Welcome to the Program of Comparison of Line");
+            LengthofLineCal.LengthCalculation();
             //CheckEqualityOfTwoLine.TwoLineEquality();
             //LineGretOrLessOrEqual.CheckLineEqualLessGreater();
         }
